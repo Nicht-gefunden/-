@@ -1,2 +1,1 @@
-# Datenvorverarbeitung
-Datenvorverarbeitung
+# Data preprocessing
